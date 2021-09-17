@@ -1,0 +1,81 @@
+ html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+body {
+    
+    background-color:#040404;
+    font-family: 'Roboto', sans-serif;
+   
+  }
+.maint{
+    color: #f7ab26 ;
+    font-size: 60;
+    padding-left: 1px;
+    font-weight: lighter;
+}
+h2{
+  color: #f7ab26 ;
+    font-size: 30;
+}
+.credits{
+  
+  color: #f7ab26;
+  font-size: 14;
+  padding-left: 4px;
+  padding-bottom: 10px;
+  float: left;
+ 
+  font-weight: bold;
+}
+i{
+    color:EE9909 ;
+}
+/* #thefile {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 100;
+}
+ */
+ #canvas {
+   size: 20px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+   
+  }
+  .voice{
+    height: 80px;
+    width: 500px;
+  }
+  
+ 
+
+
+table{
+  color: #f7ab26;
+  width: 100%;
+ 
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.tableblock{
+  background-color:#f7ab26;
+  color:#0a0a0a;
+}
+.tableblock2{
+  background-color:#2a2a28;
+  color:#f7ab26;
+}
+
+
