@@ -1,2 +1,4 @@
 # classesandlinksV2
-version 2 of website
+
+Thanks to Shreesh,Vishesh and Sparsh for helping me
+
