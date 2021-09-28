@@ -56,7 +56,7 @@ function vgmentor(){
 };
 
 function kjmentor(){
-    var kjmentorch="";
+    var kjmentorch="https://teams.microsoft.com/l/team/19%3a30Z2CujikZMQg78_mtplVkpXtjG7bEssHN1G2GAE1CM1%40thread.tacv2/conversations?groupId=c09e5a56-6a58-4b3c-b410-f99525cdb343&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";
     var x =window.open(kjmentorch,'_blank');
     setTimeout(function() { x.close(); },5000);
     
