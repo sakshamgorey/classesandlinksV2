@@ -20,7 +20,7 @@ function daath(){
     };
 function daat(){
     var daat_lms ="http://lms.nuv.ac.in/course/view.php?id=388";
-    var daat_ch="https://teams.microsoft.com/l/channel/19%3a721a8d1412194c818cb7271e0b2a200f%40thread.tacv2/DAA%2520TUTORIAL?groupId=be879bcc-e3b7-4ebf-8626-58a0a7c7e96a&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";
+    var daat_ch="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";
         
     var x =window.open(daat_ch,'_blank');
     setTimeout(function() { x.close(); },5000);
