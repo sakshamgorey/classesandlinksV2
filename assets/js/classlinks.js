@@ -28,21 +28,21 @@ function daat(){
     };
 function daalab1(){
     var daalab1lms="http://lms.nuv.ac.in/enrol/index.php?id=969";
-    var daalab1ch="https://teams.microsoft.com/l/channel/19%3a95f12cfd6872423c9b989b09310a2a1a%40thread.tacv2/DAA%2520LAB%2520B1%2520BATCH?groupId=be879bcc-e3b7-4ebf-8626-58a0a7c7e96a&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";        
+    var daalab1ch="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";        
     var x =window.open(daalab1lms,'_blank');
     setTimeout(function() { x.close(); },5000);
     var z =window.open(daalab1ch,'_blank');    
 };
 function daalab2(){
     var daalab2lms="http://lms.nuv.ac.in/course/view.php?id=970";
-    var daalab2ch="https://teams.microsoft.com/l/channel/19%3a85768801a017457ab044381e686703d1%40thread.tacv2/DAA%2520LAB%2520B2%2520BATCH?groupId=be879bcc-e3b7-4ebf-8626-58a0a7c7e96a&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";        
+    var daalab2ch="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";        
     var x =window.open(daalab2lms,'_blank');
     setTimeout(function() { x.close(); },5000);
     var z =window.open(daalab2ch,'_blank');    
 };
 function daalab3(){
     var daalab3lms="http://lms.nuv.ac.in/enrol/index.php?id=971";
-    var daalab3ch="https://teams.microsoft.com/l/channel/19%3a023ab784fb1f4a2e9435ccbf36b49dc2%40thread.tacv2/DAA%2520LAB%2520B3%2520BATCH?groupId=be879bcc-e3b7-4ebf-8626-58a0a7c7e96a&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";        
+    var daalab3ch="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";        
     var x =window.open(daalab3lms,'_blank');
     setTimeout(function() { x.close(); },5000);
     var z =window.open(daalab3ch,'_blank');    
@@ -85,7 +85,7 @@ function os(){
 
 function cn(){
     var cnlms="http://lms.nuv.ac.in/course/view.php?id=390";
-    var cnm="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%2C%22MessageId%22%3A%221631788441366%22%7D";
+    var cnm="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";
     var z =window.open(cnlms,'_blank'); 
     var x =window.open(cnm,'_blank');
     setTimeout(function() { x.close(); },60000);
@@ -94,21 +94,21 @@ function cn(){
 
 function cnlab1(){
     var cnlab1lms="http://lms.nuv.ac.in/enrol/index.php?id=972";
-    var cnlab1m="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZjOWE5NjYtMTRkMy00MjY0LTg0ZDAtNThmODA0NmZlNWI4%40thread.v2/0?context=%7b%22Tid%22%3a%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2c%22Oid%22%3a%2290f88b24-8224-4466-9517-b4d27e276988%22%7d";
+    var cnlab1m="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";
     var z =window.open(cnlab1lms,'_blank'); 
     var x =window.open(cnlab1m,'_blank');
     setTimeout(function() { x.close(); },60000);
 };
 function cnlab2(){
     var cnlab2lms="http://lms.nuv.ac.in/course/view.php?id=970";
-    var cnlab2m="";
+    var cnlab2m="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";
     var z =window.open(cnlab2lms,'_blank'); 
     var x =window.open(cnlab2m,'_blank');
     setTimeout(function() { x.close(); },60000);
 };
 function cnlab3(){
     var cnlab3lms="http://lms.nuv.ac.in/enrol/index.php?id=974";
-    var cnlab3m="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlY2MwZGEtOGM3NC00M2E1LTk5NmItOTE0NmNkOTE4NDAw%40thread.v2/0?context=%7b%22Tid%22%3a%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2c%22Oid%22%3a%2290f88b24-8224-4466-9517-b4d27e276988%22%7d";
+    var cnlab3m="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%7D";
     var z =window.open(cnlab3lms,'_blank'); 
     var x =window.open(cnlab3m,'_blank');
     setTimeout(function() { x.close(); },60000);
