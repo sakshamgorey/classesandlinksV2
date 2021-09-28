@@ -75,11 +75,11 @@ function coa(){
 function os(){
     var ostlms="http://lms.nuv.ac.in/course/view.php?id=392";
     var splablms="http://lms.nuv.ac.in/course/view.php?id=393";
-    var osm="https://teams.microsoft.com/l/meetup-join/19%3aEAlDX4SEy3WnaHMAhaUKf5uck4Ws3f7i1MYJQOrdRvI1%40thread.tacv2/1629699050414?context=%7b%22Tid%22%3a%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2c%22Oid%22%3a%2209cd1153-c968-4e4e-ad83-a0981c1259ba%22%7d";
+    //var osm="https://teams.microsoft.com/l/meetup-join/19%3aEAlDX4SEy3WnaHMAhaUKf5uck4Ws3f7i1MYJQOrdRvI1%40thread.tacv2/1629699050414?context=%7b%22Tid%22%3a%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2c%22Oid%22%3a%2209cd1153-c968-4e4e-ad83-a0981c1259ba%22%7d";
     var z =window.open(ostlms,'_blank'); 
     var y =window.open(splablms,'_blank'); 
-    var x =window.open(osm,'_blank');
-    setTimeout(function() { x.close(); },60000);
+    //var x =window.open(osm,'_blank');
+    //setTimeout(function() { x.close(); },60000);
        
 };
 
