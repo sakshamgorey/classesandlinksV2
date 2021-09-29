@@ -3,6 +3,22 @@ var controla;
 var lms;
 var nuv;
 var saksham;
+var discord;
+var gmail;
+function opendiscord(){
+    discord = window.open("https://discord.com/channels/@me")
+};
+function closediscord(){
+    discord.close();
+};
+
+function opengmail(){
+    gmail = window.open("https://mail.google.com/mail/u/0/#inbox")
+};
+function closediscord(){
+    gmail.close();
+};
+
 function openoutlook(){
     outlook = window.open("https://outlook.office365.com/mail/inbox")
 };
@@ -57,6 +73,11 @@ if (annyang) {
     'whatsapp': () => { openwhatsapp(); },
     'close whatsapp': () => { closewhatsapp(); },
     'saksham':() => {saksham();},
+    'discord':() => {opendiscord();},
+    'close discord':() => {closediscord();},
+    'g mail':() => {opengmail();},
+    'close g mail':() => {closegmail();},
+
     
     
   };
