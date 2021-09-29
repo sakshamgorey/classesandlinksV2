@@ -58,6 +58,13 @@ function saksham(){
     saksham = window.open("https://discordapp.com/users/822023787037196338")
 };
 
+var google = function(tag) {
+    var url = 'https://www.google.com.tr/search?q='+tag;
+    
+    window.open(url)
+    console.log("it works")
+  }
+
 
 if (annyang) {
 
@@ -77,7 +84,7 @@ if (annyang) {
     'close discord':() => {closediscord();},
     'g mail':() => {opengmail();},
     'close g mail':() => {closegmail();},
-
+    'search *tag': google,
     
     
   };
