@@ -82,8 +82,8 @@ if (annyang) {
     'saksham':() => {saksham();},
     'discord':() => {opendiscord();},
     'close discord':() => {closediscord();},
-    'g mail':() => {opengmail();},
-    'close g mail':() => {closegmail();},
+    'gmail':() => {opengmail();},
+    'close gmail':() => {closegmail();},
     'search *tag': google,
     
     
