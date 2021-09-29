@@ -5,6 +5,7 @@ var nuv;
 var saksham;
 var discord;
 var gmail;
+var github;
 function opendiscord(){
     discord = window.open("https://discord.com/channels/@me")
 };
@@ -54,6 +55,13 @@ function openwhatsapp(){
 function closewhatsapp(){
     whatsapp.close();
 };
+function opengithub(){
+    github = window.open("https://github.com/")
+};
+
+function closegithub(){
+    github.close();
+};
 function saksham(){
     saksham = window.open("https://discordapp.com/users/822023787037196338")
 };
@@ -82,9 +90,11 @@ if (annyang) {
     'saksham':() => {saksham();},
     'discord':() => {opendiscord();},
     'close discord':() => {closediscord();},
-    'gmail':() => {opengmail();},
-    'close gmail':() => {closegmail();},
+    'mail':() => {opengmail();},
+    'close mail':() => {closegmail();},
     'search *tag': google,
+    'github':() => {opengithub();},
+    'close github':() => {closegithub();},
     
     
   };
