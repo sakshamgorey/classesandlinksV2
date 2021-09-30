@@ -6,6 +6,7 @@ var saksham;
 var discord;
 var gmail;
 var github;
+var closegoogle;
 function opendiscord(){
     discord = window.open("https://discord.com/channels/@me")
 };
@@ -69,11 +70,13 @@ function saksham(){
 var google = function(tag) {
     var url = 'https://www.google.com/search?q='+tag;
     
-    window.open(url)
-    console.log("it works")
+    closegoogle = window.open(url)
+    
   }
 
-
+function closegoogle(){
+    closegoogle.close();
+};
 if (annyang) {
 
   const commands = {
@@ -95,6 +98,7 @@ if (annyang) {
     'search *tag': google,
     'github':() => {opengithub();},
     'close github':() => {closegithub();},
+    'close search':() => {closegoogle();},
     
     
   };
