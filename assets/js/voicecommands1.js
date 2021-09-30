@@ -67,7 +67,7 @@ function saksham(){
 };
 
 var google = function(tag) {
-    var url = 'https://www.google.com.tr/search?q='+tag;
+    var url = 'https://www.google.com/search?q='+tag;
     
     window.open(url)
     console.log("it works")
